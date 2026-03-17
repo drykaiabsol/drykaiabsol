@@ -1,6 +1,6 @@
 **Hey**
 
-Im drykai, 19 yo CS student from south of France.
+Im drykai, 19 yo CS student.
 
 I speak : French and English(B2)
 
