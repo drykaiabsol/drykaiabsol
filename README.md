@@ -8,8 +8,7 @@ I know Python,Java and im currently learning C and SQL.
 
 AI and data science particularly appeal to me.
 
-Social Media : - X/Twitter -> https://x.com/DryKai
-               - Twitch    -> https://twitch.tv/drykai_
-               - Discord   -> @drykai
-
-               `[X/Twitter](https://x.com/DryKai)`
+Social Media : 
+- X/Twitter -> https://x.com/DryKai
+- Twitch    -> https://twitch.tv/drykai_
+- Discord   -> @drykai
